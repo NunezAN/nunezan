@@ -1,7 +1,6 @@
 # Hi there, I'm Alex! 👋
 
 <div>
-<img aling="left" width="52%" src="https://github-readme-stats.vercel.app/api?username=nunezan&show_icons=true&theme=gotham"/>
 <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunezan&layout=compact&theme=gotham"/>
 </div>
 <br>
