@@ -1,7 +1,7 @@
 # Hi there, I'm Alex! 👋
 
 <div>
-<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunezan&layout=compact&theme=gotham"/>
+<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunezan&layout=compact&theme=gotham"/>
 </div>
 <br>
 <div>
